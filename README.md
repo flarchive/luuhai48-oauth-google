@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of luuhai48/oauth-google.** Not for installation: use [Packagist](https://packagist.org/packages/luuhai48/oauth-google) or the [upstream repository](https://github.com/luuhai48/oauth-google).
 
-**0** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/luuhai48-oauth-google/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.14`
+**2** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/luuhai48-oauth-google/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2020-11-15 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/luuhai48-oauth-google/tree/archive/v1.0.0) |
+| `v1.1.0` | 2020-12-08 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/luuhai48-oauth-google/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/luuhai48-oauth-google.json](https://github.com/flarchive/archive-index/blob/main/packages/luuhai48-oauth-google.json)
 
